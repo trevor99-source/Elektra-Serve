@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://elektraserve.co.za
+Sitemap: https://www.elektraserve.co.za/sitemap.xml

@@ -1,45 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <url>
-       <loc>https://elektraserve.co.za/</loc>
-       <lastmod>2026-10-15T09:40:13+00:00</lastmod>
-       <priority>1.0000</priority>
-  </url>
-  <url>
-       <loc>https://elektraserve.co.za/index.html</loc>
-       <lastmod>2026-10-15T09:40:13+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://elektraserve.co.za/about.html</loc>
-       <lastmod>2026-10-15T09:40:13+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://elektraserve.co.za/services.html</loc>
-       <lastmod>2026-10-15T09:40:13+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://elektraserve.co.za/portfolio.html</loc>
-       <lastmod>2026-10-15T09:40:13+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://elektraserve.co.za/contact.html</loc>
-       <lastmod>2026-10-15T09:40:13+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://elektraserve.co.za/enquiry-form.html</loc>
-       <lastmod>2026-10-15T09:40:13+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://elektraserve.co.za/appointment-request.html</loc>
-       <lastmod>2026-10-15T09:40:13+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.elektraserve.co.za/</loc></url>
+  <url><loc>https://www.elektraserve.co.za/about.html</loc></url>
+  <url><loc>https://www.elektraserve.co.za/services.html</loc></url>
+  <url><loc>https://www.elektraserve.co.za/portfolio.html</loc></url>
+  <url><loc>https://www.elektraserve.co.za/contact.html</loc></url>
+  <url><loc>https://www.elektraserve.co.za/appointment-request.html</loc></url>
 </urlset>
